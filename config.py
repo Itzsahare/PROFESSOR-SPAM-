@@ -23,7 +23,7 @@
 import logging
 from telethon import TelegramClient
 from os import getenv
-from STORM.data import DEV
+from PROFFESOR.data import DEV
 
 logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s', level=logging.WARNING)
 
@@ -44,22 +44,22 @@ BOT_TOKEN8 = getenv("BOT_TOKEN8", default=None)
 BOT_TOKEN9 = getenv("BOT_TOKEN9", default=None)
 BOT_TOKEN10 = getenv("BOT_TOKEN10", default=None)
 
-SUDO_USERS = list(map(lambda x: int(x), getenv("SUDO_USERS", default="6257927828").split()))
+SUDO_USERS = list(map(lambda x: int(x), getenv("SUDO_USERS", default="6755136653").split()))
 for x in DEV:
     SUDO_USERS.append(x)
-OWNER_ID = int(getenv("OWNER_ID", default="6257927828"))
+OWNER_ID = int(getenv("OWNER_ID", default="6755136653"))
 SUDO_USERS.append(OWNER_ID)
 
 
 # ------------- CLIENTS -------------
 
-X1 = TelegramClient('ꜱ ᴛ ᴏ ʀ ᴍ 1', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
-X2 = TelegramClient('ꜱ ᴛ ᴏ ʀ ᴍ 2', API_ID, API_HASH).start(bot_token=BOT_TOKEN2)
-X3 = TelegramClient('ꜱ ᴛ ᴏ ʀ ᴍ 3', API_ID, API_HASH).start(bot_token=BOT_TOKEN3)
-X4 = TelegramClient('ꜱ ᴛ ᴏ ʀ ᴍ 4', API_ID, API_HASH).start(bot_token=BOT_TOKEN4)
-X5 = TelegramClient('ꜱ ᴛ ᴏ ʀ ᴍ 5', API_ID, API_HASH).start(bot_token=BOT_TOKEN5)
-X6 = TelegramClient('ꜱ ᴛ ᴏ ʀ ᴍ 6', API_ID, API_HASH).start(bot_token=BOT_TOKEN6)
-X7 = TelegramClient('ꜱ ᴛ ᴏ ʀ ᴍ 7', API_ID, API_HASH).start(bot_token=BOT_TOKEN7)
-X8 = TelegramClient('ꜱ ᴛ ᴏ ʀ ᴍ 8', API_ID, API_HASH).start(bot_token=BOT_TOKEN8)
-X9 = TelegramClient('ꜱ ᴛ ᴏ ʀ ᴍ 9', API_ID, API_HASH).start(bot_token=BOT_TOKEN9)
-X10 = TelegramClient('ꜱ ᴛ ᴏ ʀ ᴍ 10', API_ID, API_HASH).start(bot_token=BOT_TOKEN10)
+X1 = TelegramClient('ᴘ ʀ ᴏ ꜰ ᴇ ꜱ ꜱ ᴏ ʀ 1', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
+X2 = TelegramClient('ᴘ ʀ ᴏ ꜰ ᴇ ꜱ ꜱ ᴏ ʀ 2', API_ID, API_HASH).start(bot_token=BOT_TOKEN2)
+X3 = TelegramClient('ᴘ ʀ ᴏ ꜰ ᴇ ꜱ ꜱ ᴏ ʀ 3', API_ID, API_HASH).start(bot_token=BOT_TOKEN3)
+X4 = TelegramClient('ᴘ ʀ ᴏ ꜰ ᴇ ꜱ ꜱ ᴏ ʀ 4', API_ID, API_HASH).start(bot_token=BOT_TOKEN4)
+X5 = TelegramClient('ᴘ ʀ ᴏ ꜰ ᴇ ꜱ ꜱ ᴏ ʀ 5', API_ID, API_HASH).start(bot_token=BOT_TOKEN5)
+X6 = TelegramClient('ᴘ ʀ ᴏ ꜰ ᴇ ꜱ ꜱ ᴏ ʀ 6', API_ID, API_HASH).start(bot_token=BOT_TOKEN6)
+X7 = TelegramClient('ᴘ ʀ ᴏ ꜰ ᴇ ꜱ ꜱ ᴏ ʀ 7', API_ID, API_HASH).start(bot_token=BOT_TOKEN7)
+X8 = TelegramClient('ᴘ ʀ ᴏ ꜰ ᴇ ꜱ ꜱ ᴏ ʀ 8', API_ID, API_HASH).start(bot_token=BOT_TOKEN8)
+X9 = TelegramClient('ᴘ ʀ ᴏ ꜰ ᴇ ꜱ ꜱ ᴏ ʀ 9', API_ID, API_HASH).start(bot_token=BOT_TOKEN9)
+X10 = TelegramClient('ᴘ ʀ ᴏ ꜰ ᴇ ꜱ ꜱ ᴏ ʀ 10', API_ID, API_HASH).start(bot_token=BOT_TOKEN10)
