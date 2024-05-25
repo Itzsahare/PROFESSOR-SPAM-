@@ -1,16 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">──「 𝐒 𝐓 𝐎 𝐑 𝐌 🥀」──</p> 
+<p align="center">──「 𝐏 𝐑 𝐎 𝐅 𝐄 𝐒 𝐒 𝐎 𝐑 🥀」──</p> 
     
 <h2 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓<h2>
 
 <p align="center">
-  <img src="./Storm.jpeg" alt="Logo">
-</p>
-
-<p align="center">
-    <a href="https://github.com/VARC9210/STORM/commits/STORM"><img src="https://img.shields.io/github/last-commit/VARC9210/STORM?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
-    <a href="https://travis-ci.com/VARC9210/STORM.svg?branch=STORM" /></a>
     <a href="https://github.com/VARC9210/STORM/issues"> <img src="https://img.shields.io/github/issues/VARC9210/STORM?color=blue&logo=github&style=for-the-badge" /></a>
     <a href="https://github.com/VARC9210/STORM"> <img src="https://img.shields.io/github/repo-size/VARC9210/STORM?logo=github&style=for-the-badge" /></a>
     <a href="https://github.com/VARC9210/STORM/network/members"> <img src="https://img.shields.io/github/forks/VARC9210/STORM?logo=github&style=for-the-badge" /></a>
@@ -47,7 +41,7 @@
 
 <h2> <img src="https://github.com/VARC9210/STORM-USERBOT/blob/main/res/cat_gif.gif" width="90px"> KEX 🌿 <img src = "https://github.com/VARC9210/STORM-USERBOT/blob/main/res/cat1.gif" width="90px"> </h1>
 
-[**KEX**](https://t.me/kexx_xd) 🌿
+[**KEX**](https://t.me/professor_77x) 🌿
 
 ## ᴅɪꜱᴄʟᴀɪᴍᴇʀ
 
