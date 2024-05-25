@@ -1,1 +1,1 @@
-STORM: python -m main.py
+PROFFESOR: python -m main.py
