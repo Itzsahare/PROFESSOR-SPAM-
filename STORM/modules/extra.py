@@ -26,12 +26,12 @@ from random import choice
 from telethon import events
 from telethon.tl.functions.messages import ImportChatInviteRequest as Get
 from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, SUDO_USERS, OWNER_ID, CMD_HNDLR as hl
-from STORM.data import DEV
-from STORM.data import EMOJI
-from STORM.data import FLIRT
-from STORM.data import GM, GA, GN
-from STORM.data import LOVERAID
-from STORM.data import SRAID
+from PROFESSOR.data import DEV
+from PROFESSOR.data import EMOJI
+from PROFESSOR.data import FLIRT
+from PROFESSOR.data import GM, GA, GN
+from PROFESSOR.data import LOVERAID
+from PROFESSOR.data import SRAID
 
 ECHO = []
 
